@@ -2,6 +2,10 @@ Sources for finding datasets
 https://dataplatform.cloud.ibm.com/gallery
 Kaggle.com/datasets
 datasetsearch.research.google.com
+https://developer.ibm.com/exchanges/data/
+https://data.un.org/
+https://catalog.data.gov/dataset
+https://data.europa.eu/en
 
 
 Intorduction to Command Prompt
