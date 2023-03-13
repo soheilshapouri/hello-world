@@ -1,6 +1,12 @@
+Sources for finding datasets
+https://dataplatform.cloud.ibm.com/gallery
+Kaggle.com/datasets
+datasetsearch.research.google.com
+
+
 Intorduction to Command Prompt
 https://www.youtube.com/playlist?list=PLg4g9kVn2OVh0wDpGwIbGTHt2qw6qLeI2
-   If you install python packages with pip being familiar with command prompt is useful as you might use something like pip install xxx in cmd to install libraries or packages 
+   If you want to install python packages with pip, being familiar with command prompt is useful as you might use something like pip install xxx in cmd to install libraries or packages 
 
 Markdown language to be used in Jupyter notebooks
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
