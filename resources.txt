@@ -15,5 +15,7 @@ https://www.youtube.com/playlist?list=PLg4g9kVn2OVh0wDpGwIbGTHt2qw6qLeI2
 Markdown language to be used in Jupyter notebooks
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+Python Cheat Sheet 
+https://quickref.me/python
 
 
