@@ -8,6 +8,8 @@ https://catalog.data.gov/dataset
 https://data.europa.eu/en
 
 
+# Python 
+
 Intorduction to Command Prompt
 https://www.youtube.com/playlist?list=PLg4g9kVn2OVh0wDpGwIbGTHt2qw6qLeI2
    If you want to install python packages with pip, being familiar with command prompt is useful as you might use something like pip install xxx in cmd to install libraries or packages 
@@ -18,4 +20,5 @@ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 Python Cheat Sheet 
 https://quickref.me/python
 
-
+List of errors in python / exception handling 
+https://docs.python.org/3/library/exceptions.html
