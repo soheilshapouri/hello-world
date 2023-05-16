@@ -1,3 +1,11 @@
+Data Visualization 
+Choose appropriate graphs: https://www.data-to-viz.com/
+fantastic visualization examples: https://www.darkhorseanalytics.com/
+
+Linear Models 
+https://bodowinter.com/tutorial/bw_LME_tutorial1.pdf
+
+
 Sources for finding datasets
 https://dataplatform.cloud.ibm.com/gallery
 Kaggle.com/datasets
@@ -23,8 +31,6 @@ https://quickref.me/python
 List of errors in python / exception handling 
 https://docs.python.org/3/library/exceptions.html
 
-Data Visualization 
-Choose appropriate graphs: https://www.data-to-viz.com/
-fantastic visualization examples: https://www.darkhorseanalytics.com/
+
 
 
