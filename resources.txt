@@ -3,7 +3,7 @@ Choose appropriate graphs: https://www.data-to-viz.com/
 fantastic visualization examples: https://www.darkhorseanalytics.com/
 
 Linear Models 
-https://bodowinter.com/tutorial/bw_LME_tutorial1.pdf
+***https://bodowinter.com/tutorial/bw_LME_tutorial1.pdf
 
 
 Sources for finding datasets
